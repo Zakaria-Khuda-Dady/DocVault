@@ -4,7 +4,7 @@ A full-stack document management application where users can securely upload, vi
 
 ## Live Demo
 
-> [Coming soon — deploying to AWS EC2]
+> https://docvault-frontend-0fwp.onrender.com
 
 ---
 
