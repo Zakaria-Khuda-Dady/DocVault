@@ -1,6 +1,6 @@
 import React from "react";
 import { Navigate, Outlet } from "react-router-dom";
-import AppLayout from "./layout/appLayout.jsx";
+import AppLayout from "./layout/AppLayout.jsx";
 
 const ProtectedRoute = () => {
   const isAuthenticated = true;
